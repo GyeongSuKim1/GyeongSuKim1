@@ -10,4 +10,5 @@
 	<code><img alt="Html" src="https://user-images.githubusercontent.com/47416686/92299565-4d548280-ef8e-11ea-800d-86b5c28fbcdc.png" width="32"></code>
 	<code><img alt="Css" src="https://user-images.githubusercontent.com/47416686/92299858-2ea3bb00-ef91-11ea-8d20-c6561b1ef711.png" width="32"></code>
 	<code><img alt="Javascript" src="https://user-images.githubusercontent.com/26512984/88481835-aba64280-cf98-11ea-80a7-c6c5ae3a1235.jpg" width="32"></code>
+	<code><img alt="python" src="https://user-images.githubusercontent.com/61134850/173356476-cf67c47b-d937-429f-bccf-cc29e3d3c914.png" width="32"></code>
 	<code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>
